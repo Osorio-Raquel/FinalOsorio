@@ -1,5 +1,6 @@
 @import './base.css';
 
 #app {
-    width: 100vw;
+  width: 100vw;
+  background-color: #f7e2e6;
 }
