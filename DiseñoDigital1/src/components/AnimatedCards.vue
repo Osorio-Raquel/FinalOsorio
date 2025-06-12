@@ -1,7 +1,7 @@
 <template>
   <div class="carousel">
     <div class="carousel-track">
-      <!-- Card 1: Pregnancy Due Date Calculator -->
+      <!-- Card 1: PRESENTACION DE LA IDEA -->
       <article class="deconstructed-card">
         <div class="card-layer card-image">
           <svg class="wave-svg" viewBox="0 0 300 400" preserveAspectRatio="none">
@@ -46,28 +46,17 @@
         </div>
         <div class="card-layer card-content pregnancy-content">
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text">PREGNANCY</h2>
-            <h3 class="content-subtext">DUE DATE CALCULATOR</h3>
+            <h2 class="content-text">Raquel</h2>
+            <h3 class="content-subtext">Osorio</h3>
           </div>
           <div class="content-fragment fragment-meta">
             <div class="meta-line"></div>
-            <span class="meta-text">HEALTH</span>
+            <span class="meta-text">Propuesta</span>
           </div>
           <div class="content-fragment fragment-body">
             <p class="content-text">
-              Calculate your expected delivery date with precision based on your last period or
-              conception date.
+              En el apartado anterior se pude apreciar mi concepcion de los temas de la materia en forma de nodos.
             </p>
-          </div>
-          <div class="content-fragment fragment-cta">
-            <a
-              href="https://calculatequick.com/health/pregnancy-due-date-calculator/"
-              class="cta-link"
-              target="_blank"
-            >
-              <div class="cta-box"></div>
-              <span class="cta-text">OPEN CALCULATOR</span>
-            </a>
           </div>
         </div>
       </article>
@@ -117,28 +106,17 @@
         </div>
         <div class="card-layer card-content baby-content">
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text">BABY EYE</h2>
-            <h3 class="content-subtext">COLOR CALCULATOR</h3>
+            <h2 class="content-text">MODULOS</h2>
+            <h3 class="content-subtext">3 modulos</h3>
           </div>
           <div class="content-fragment fragment-meta">
             <div class="meta-line"></div>
-            <span class="meta-text">BIOLOGY</span>
+            <span class="meta-text">Propuesta</span>
           </div>
           <div class="content-fragment fragment-body">
             <p class="content-text">
-              Predict possible eye colors for your baby based on parental genetics and inheritance
-              patterns.
+              Para el glosario tome un concepto importante para mi de cada tema avanzado dividido por modulos.
             </p>
-          </div>
-          <div class="content-fragment fragment-cta">
-            <a
-              href="https://calculatequick.com/biology/baby-eye-color-calculator/"
-              class="cta-link"
-              target="_blank"
-            >
-              <div class="cta-box"></div>
-              <span class="cta-text">OPEN CALCULATOR</span>
-            </a>
           </div>
         </div>
       </article>
@@ -170,24 +148,13 @@
             <div class="meta-line"></div>
           </div>
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text align-right">PERCENTAGE</h2>
-            <h3 class="content-subtext align-right">PRECISION CALCULATOR</h3>
+            <h2 class="content-text align-right">PAGINA</h2>
+            <h3 class="content-subtext align-right">RESPONSIVE</h3>
           </div>
           <div class="content-fragment fragment-body text-align-right">
             <p class="content-text">
-              Calculate percentages for discounts, taxes, tips, and any percentage-based math with
-              ease and accuracy.
+              La pagina cuenta con version mobile mas no es catalogada A.
             </p>
-          </div>
-          <div class="content-fragment fragment-cta text-align-right">
-            <a
-              href="https://calculatequick.com/math/percentage-calculator/"
-              class="cta-link"
-              target="_blank"
-            >
-              <div class="cta-box"></div>
-              <span class="cta-text">OPEN CALCULATOR</span>
-            </a>
           </div>
         </div>
       </article>
@@ -216,27 +183,16 @@
         <div class="card-layer card-content egg-content">
           <div class="content-fragment fragment-meta">
             <div class="meta-line"></div>
-            <span class="meta-text">FOOD</span>
+            <span class="meta-text"></span>
           </div>
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text">PERFECT EGG</h2>
-            <h3 class="content-subtext">BOILED TO PERFECTION</h3>
+            <h2 class="content-text">Cards</h2>
+            <h3 class="content-subtext">Conceptos Presentados</h3>
           </div>
           <div class="content-fragment fragment-body">
             <p class="content-text">
-              Get the exact cooking time for your perfect soft, medium, or hard-boiled eggs every
-              single time.
+              La idea presentada es como un slide show que pueda servir de memoria para pivote de cada tema avanzado.
             </p>
-          </div>
-          <div class="content-fragment fragment-cta">
-            <a
-              href="https://calculatequick.com/food/perfect-boiled-egg-calculator/"
-              class="cta-link"
-              target="_blank"
-            >
-              <div class="cta-box"></div>
-              <span class="cta-text">OPEN CALCULATOR</span>
-            </a>
           </div>
         </div>
       </article>
@@ -357,28 +313,17 @@
         </div>
         <div class="card-layer card-content age-content">
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text">AGE</h2>
-            <h3 class="content-subtext">PRECISE TO THE SECOND</h3>
+            <h2 class="content-text">Colores</h2>
+            <h3 class="content-subtext">Presentaciones de clase</h3>
           </div>
           <div class="content-fragment fragment-meta">
             <div class="meta-line"></div>
-            <span class="meta-text">TIME</span>
+            <span class="meta-text"></span>
           </div>
           <div class="content-fragment fragment-body">
             <p class="content-text">
-              Calculate your exact age in years, months, weeks, days, hours, minutes, and seconds
-              with precision.
+              La propuesta cumple con los colores seleccionados para la materia, los de las presentaciones utilizadas en clase. 
             </p>
-          </div>
-          <div class="content-fragment fragment-cta">
-            <a
-              href="https://calculatequick.com/everyday-life/age-calculator/"
-              class="cta-link"
-              target="_blank"
-            >
-              <div class="cta-box"></div>
-              <span class="cta-text">OPEN CALCULATOR</span>
-            </a>
           </div>
         </div>
       </article>
