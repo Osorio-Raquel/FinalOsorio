@@ -1,7 +1,7 @@
 <template>
   <div class="carousel">
     <div class="carousel-track">
-      <!-- Card 1: Pregnancy Due Date Calculator -->
+      <!-- Card 1: PRESENTACION DE LA IDEA -->
       <article class="deconstructed-card">
         <div class="card-layer card-image">
           <svg class="wave-svg" viewBox="0 0 300 400" preserveAspectRatio="none">
@@ -46,28 +46,17 @@
         </div>
         <div class="card-layer card-content pregnancy-content">
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text">PREGNANCY</h2>
-            <h3 class="content-subtext">DUE DATE CALCULATOR</h3>
+            <h2 class="content-text">Raquel</h2>
+            <h3 class="content-subtext">Osorio</h3>
           </div>
           <div class="content-fragment fragment-meta">
             <div class="meta-line"></div>
-            <span class="meta-text">HEALTH</span>
+            <span class="meta-text">Propuesta</span>
           </div>
           <div class="content-fragment fragment-body">
             <p class="content-text">
-              Calculate your expected delivery date with precision based on your last period or
-              conception date.
+              En el apartado anterior se pude apreciar mi concepcion de los temas de la materia en forma de nodos.
             </p>
-          </div>
-          <div class="content-fragment fragment-cta">
-            <a
-              href="https://calculatequick.com/health/pregnancy-due-date-calculator/"
-              class="cta-link"
-              target="_blank"
-            >
-              <div class="cta-box"></div>
-              <span class="cta-text">OPEN CALCULATOR</span>
-            </a>
           </div>
         </div>
       </article>
@@ -117,28 +106,17 @@
         </div>
         <div class="card-layer card-content baby-content">
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text">BABY EYE</h2>
-            <h3 class="content-subtext">COLOR CALCULATOR</h3>
+            <h2 class="content-text">MODULOS</h2>
+            <h3 class="content-subtext">3 modulos</h3>
           </div>
           <div class="content-fragment fragment-meta">
             <div class="meta-line"></div>
-            <span class="meta-text">BIOLOGY</span>
+            <span class="meta-text">Propuesta</span>
           </div>
           <div class="content-fragment fragment-body">
             <p class="content-text">
-              Predict possible eye colors for your baby based on parental genetics and inheritance
-              patterns.
+              Para el glosario tome un concepto importante para mi de cada tema avanzado dividido por modulos.
             </p>
-          </div>
-          <div class="content-fragment fragment-cta">
-            <a
-              href="https://calculatequick.com/biology/baby-eye-color-calculator/"
-              class="cta-link"
-              target="_blank"
-            >
-              <div class="cta-box"></div>
-              <span class="cta-text">OPEN CALCULATOR</span>
-            </a>
           </div>
         </div>
       </article>
@@ -170,24 +148,13 @@
             <div class="meta-line"></div>
           </div>
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text align-right">PERCENTAGE</h2>
-            <h3 class="content-subtext align-right">PRECISION CALCULATOR</h3>
+            <h2 class="content-text align-right">PAGINA</h2>
+            <h3 class="content-subtext align-right">RESPONSIVE</h3>
           </div>
           <div class="content-fragment fragment-body text-align-right">
             <p class="content-text">
-              Calculate percentages for discounts, taxes, tips, and any percentage-based math with
-              ease and accuracy.
+              La pagina cuenta con version mobile mas no es catalogada A.
             </p>
-          </div>
-          <div class="content-fragment fragment-cta text-align-right">
-            <a
-              href="https://calculatequick.com/math/percentage-calculator/"
-              class="cta-link"
-              target="_blank"
-            >
-              <div class="cta-box"></div>
-              <span class="cta-text">OPEN CALCULATOR</span>
-            </a>
           </div>
         </div>
       </article>
@@ -216,21 +183,152 @@
         <div class="card-layer card-content egg-content">
           <div class="content-fragment fragment-meta">
             <div class="meta-line"></div>
-            <span class="meta-text">FOOD</span>
+            <span class="meta-text"></span>
           </div>
           <div class="content-fragment fragment-heading">
-            <h2 class="content-text">PERFECT EGG</h2>
-            <h3 class="content-subtext">BOILED TO PERFECTION</h3>
+            <h2 class="content-text">Cards</h2>
+            <h3 class="content-subtext">Conceptos Presentados</h3>
           </div>
           <div class="content-fragment fragment-body">
             <p class="content-text">
-              Get the exact cooking time for your perfect soft, medium, or hard-boiled eggs every
-              single time.
+              La idea presentada es como un slide show que pueda servir de memoria para pivote de cada tema avanzado.
+            </p>
+          </div>
+        </div>
+      </article>
+
+      <!-- Card 5: Sleep Cycle Calculator -->
+      <article class="deconstructed-card">
+        <div class="card-layer card-image">
+          <svg class="wave-svg" viewBox="0 0 300 400" preserveAspectRatio="none">
+            <defs>
+              <linearGradient id="sleepGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#118AB2" />
+                <stop offset="100%" stop-color="#5AC8E3" />
+              </linearGradient>
+              <linearGradient id="waveSleepGradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#2B97BC" />
+                <stop offset="50%" stop-color="#73D5EC" />
+                <stop offset="100%" stop-color="#2B97BC" />
+              </linearGradient>
+              <linearGradient id="waveSleepGradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#73D5EC" />
+                <stop offset="50%" stop-color="#9DE4F4" />
+                <stop offset="100%" stop-color="#73D5EC" />
+              </linearGradient>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#sleepGradient)" />
+            <path
+              d="M0,230 C30,220 60,240 90,230 C120,220 150,240 180,230 C210,220 240,240 270,230 C290,225 295,230 300,225 L300,400 L0,400 Z"
+              fill="url(#waveSleepGradient1)"
+              opacity="0.8"
+            />
+            <path
+              d="M0,260 C40,250 80,270 120,260 C160,250 200,270 240,260 C280,250 290,260 300,255 L300,400 L0,400 Z"
+              fill="url(#waveSleepGradient2)"
+              opacity="0.9"
+            />
+            <path
+              d="M0,290 C50,280 100,300 150,290 C200,280 250,300 300,290 L300,400 L0,400 Z"
+              fill="#C0EDF7"
+              opacity="0.7"
+            />
+          </svg>
+        </div>
+        <div class="card-layer card-frame">
+          <svg viewBox="0 0 300 400" preserveAspectRatio="none">
+            <path class="frame-path" d="M 20,20 H 280 V 380 H 20 Z" />
+          </svg>
+        </div>
+        <div class="card-layer card-content sleep-content">
+          <div class="content-fragment fragment-heading">
+            <h2 class="content-text">SLEEP CYCLE</h2>
+            <h3 class="content-subtext">OPTIMIZE YOUR REST</h3>
+          </div>
+          <div class="content-fragment fragment-meta">
+            <div class="meta-line"></div>
+            <span class="meta-text">HEALTH</span>
+          </div>
+          <div class="content-fragment fragment-body">
+            <p class="content-text">
+              Optimize your sleep schedule by finding the perfect bedtimes and wake times for
+              natural sleep cycles.
             </p>
           </div>
           <div class="content-fragment fragment-cta">
             <a
-              href="https://calculatequick.com/food/perfect-boiled-egg-calculator/"
+              href="https://calculatequick.com/everyday-life/sleep-cycle-calculator/"
+              class="cta-link"
+              target="_blank"
+            >
+              <div class="cta-box"></div>
+              <span class="cta-text">OPEN CALCULATOR</span>
+            </a>
+          </div>
+        </div>
+      </article>
+
+      <!-- Card 6: Age Calculator -->
+      <article class="deconstructed-card">
+        <div class="card-layer card-image">
+          <svg class="wave-svg" viewBox="0 0 300 400" preserveAspectRatio="none">
+            <defs>
+              <linearGradient id="ageGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+                <stop offset="0%" stop-color="#073B4C" />
+                <stop offset="100%" stop-color="#3C7C8C" />
+              </linearGradient>
+              <linearGradient id="waveAgeGradient1" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#185064" />
+                <stop offset="50%" stop-color="#4A8A9A" />
+                <stop offset="100%" stop-color="#185064" />
+              </linearGradient>
+              <linearGradient id="waveAgeGradient2" x1="0%" y1="0%" x2="100%" y2="0%">
+                <stop offset="0%" stop-color="#4A8A9A" />
+                <stop offset="50%" stop-color="#7AADBF" />
+                <stop offset="100%" stop-color="#4A8A9A" />
+              </linearGradient>
+            </defs>
+            <rect width="100%" height="100%" fill="url(#ageGradient)" />
+            <path
+              d="M0,230 C30,220 60,240 90,230 C120,220 150,240 180,230 C210,220 240,240 270,230 C290,225 295,230 300,225 L300,400 L0,400 Z"
+              fill="url(#waveAgeGradient1)"
+              opacity="0.8"
+            />
+            <path
+              d="M0,260 C40,250 80,270 120,260 C160,250 200,270 240,260 C280,250 290,260 300,255 L300,400 L0,400 Z"
+              fill="url(#waveAgeGradient2)"
+              opacity="0.9"
+            />
+            <path
+              d="M0,290 C50,280 100,300 150,290 C200,280 250,300 300,290 L300,400 L0,400 Z"
+              fill="#A0C5D1"
+              opacity="0.7"
+            />
+          </svg>
+        </div>
+        <div class="card-layer card-frame">
+          <svg viewBox="0 0 300 400" preserveAspectRatio="none">
+            <path class="frame-path" d="M 20,20 H 280 V 380 H 20 Z" />
+          </svg>
+        </div>
+        <div class="card-layer card-content age-content">
+          <div class="content-fragment fragment-heading">
+            <h2 class="content-text">AGE</h2>
+            <h3 class="content-subtext">PRECISE TO THE SECOND</h3>
+          </div>
+          <div class="content-fragment fragment-meta">
+            <div class="meta-line"></div>
+            <span class="meta-text">TIME</span>
+          </div>
+          <div class="content-fragment fragment-body">
+            <p class="content-text">
+              Calculate your exact age in years, months, weeks, days, hours, minutes, and seconds
+              with precision.
+            </p>
+          </div>
+          <div class="content-fragment fragment-cta">
+            <a
+              href="https://calculatequick.com/everyday-life/age-calculator/"
               class="cta-link"
               target="_blank"
             >
